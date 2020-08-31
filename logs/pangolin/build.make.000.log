@@ -1,0 +1,246 @@
+[35m[1mScanning dependencies of target pangolin[0m
+[  1%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/sigstate.cpp.o[0m
+[  2%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/file_extension.cpp.o[0m
+[  3%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/uri.cpp.o[0m
+[  4%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/threadedfilebuf.cpp.o[0m
+[  4%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/timer.cpp.o[0m
+[  5%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/file_utils.cpp.o[0m
+[  6%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_jpg.cpp.o[0m
+[  8%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_zstd.cpp.o[0m
+[  8%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_tga.cpp.o[0m
+[  9%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_raw.cpp.o[0m
+[ 10%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_packed12bit.cpp.o[0m
+[ 10%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_lz4.cpp.o[0m
+[ 11%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_ppm.cpp.o[0m
+[ 12%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_exr.cpp.o[0m
+[ 13%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_png.cpp.o[0m
+[ 15%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/pixel_format.cpp.o[0m
+[ 15%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io.cpp.o[0m
+[ 16%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/image/image_io_pango.cpp.o[0m
+[ 16%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/log/packetstream_reader.cpp.o[0m
+[ 17%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/log/playback_session.cpp.o[0m
+[ 19%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/log/packetstream.cpp.o[0m
+[ 19%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/log/packetstream_writer.cpp.o[0m
+[ 20%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/log/packet.cpp.o[0m
+[ 21%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/geometry/glgeometry.cpp.o[0m
+[ 22%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/geometry/geometry.cpp.o[0m
+[ 22%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/geometry/geometry_ply.cpp.o[0m
+[ 23%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/geometry/geometry_obj.cpp.o[0m
+[ 24%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/geometry/tinyobj.cpp.o[0m
+[ 25%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/gl/glchar.cpp.o[0m
+[ 26%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/gl/gltexturecache.cpp.o[0m
+[ 27%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/gl/glpangoglu.cpp.o[0m
+[ 27%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/gl/gltext.cpp.o[0m
+[ 28%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/gl/gldraw.cpp.o[0m
+[ 29%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/gl/glfont.cpp.o[0m
+[ 30%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/display/display.cpp.o[0m
+[ 31%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/display/viewport.cpp.o[0m
+[ 32%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/display/opengl_render_state.cpp.o[0m
+[ 33%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/display/window_factory.cpp.o[0m
+[ 33%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/display/view.cpp.o[0m
+[ 34%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/display/image_view.cpp.o[0m
+[ 35%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/handler/handler.cpp.o[0m
+[ 36%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/handler/handler_glbuffer.cpp.o[0m
+[ 37%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/handler/handler_image.cpp.o[0m
+In file included from [01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/glfont.cpp:44:0[m[K:
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4746:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_BakeFontBitmap(const unsigned char*, int, float, unsigned char*, int, int, int, int, stbtt_bakedchar*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_BakeFontBitmap(const unsigned char *data, int offset,
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3678:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetBakedQuad(const stbtt_bakedchar*, int, int, int, float*, float*, stbtt_aligned_quad*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetBakedQuad(const stbtt_bakedchar *chardata, int pw, int ph, int char_index, float *xpos, float *ypos, stbtt_aligned_quad *q, int opengl_fillrule)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4159:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetScaledFontVMetrics(const unsigned char*, int, float, float*, float*, float*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetScaledFontVMetrics(const unsigned char *fontdata, int index, float size, float *ascent, float *descent, float *lineGap)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3776:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_PackBegin(stbtt_pack_context*, unsigned char*, int, int, int, int, void*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_PackBegin(stbtt_pack_context *spc, unsigned char *pixels, int pw, int ph, int stride_in_bytes, int padding, void *alloc_context)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3808:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_PackEnd(stbtt_pack_context*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_PackEnd  (stbtt_pack_context *spc)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4147:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_PackFontRange(stbtt_pack_context*, const unsigned char*, int, float, int, int, stbtt_packedchar*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_PackFontRange(stbtt_pack_context *spc, const unsigned char *fontdata, int font_index, float font_size,
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3814:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_PackSetOversampling(stbtt_pack_context*, unsigned int, unsigned int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_PackSetOversampling(stbtt_pack_context *spc, unsigned int h_oversample, unsigned int v_oversample)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3824:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_PackSetSkipMissingCodepoints(stbtt_pack_context*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_PackSetSkipMissingCodepoints(stbtt_pack_context *spc, int skip)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4172:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetPackedQuad(const stbtt_packedchar*, int, int, int, float*, float*, stbtt_aligned_quad*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetPackedQuad(const stbtt_packedchar *chardata, int pw, int ph, int char_index, float *xpos, float *ypos, stbtt_aligned_quad *q, int align_to_integer)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4758:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_GetNumberOfFonts(const unsigned char*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_GetNumberOfFonts(const unsigned char *data)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2569:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_GetFontVMetricsOS2(const stbtt_fontinfo*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int  stbtt_GetFontVMetricsOS2(const stbtt_fontinfo *info, int *typoAscent, int *typoDescent, int *typoLineGap)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2580:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetFontBoundingBox(const stbtt_fontinfo*, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetFontBoundingBox(const stbtt_fontinfo *info, int *x0, int *y0, int *x1, int *y1)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2557:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetCodepointHMetrics(const stbtt_fontinfo*, int, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetCodepointHMetrics(const stbtt_fontinfo *info, int codepoint, int *advanceWidth, int *leftSideBearing)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:1589:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_GetCodepointBox(const stbtt_fontinfo*, int, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_GetCodepointBox(const stbtt_fontinfo *info, int codepoint, int *x0, int *y0, int *x1, int *y1)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:1594:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_IsGlyphEmpty(const stbtt_fontinfo*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_IsGlyphEmpty(const stbtt_fontinfo *info, int glyph_index)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:1537:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_GetCodepointShape(const stbtt_fontinfo*, int, stbtt_vertex**)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_GetCodepointShape(const stbtt_fontinfo *info, int unicode_codepoint, stbtt_vertex **vertices)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2600:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_FreeShape(const stbtt_fontinfo*, stbtt_vertex*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_FreeShape(const stbtt_fontinfo *info, stbtt_vertex *v)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3527:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_FreeBitmap(unsigned char*, void*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_FreeBitmap(unsigned char *bitmap, void *userdata)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3616:26:[m[K [01;35m[Kwarning: [m[K‘[01m[Kunsigned char* stbtt_GetCodepointBitmap(const stbtt_fontinfo*, float, float, int, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF unsigned char *stbtt_GetCodepointBitmap(const stbtt_fontinfo *info, float scale_x, float scale_y, int codepoint, int *width, int *height, int *xoff, int *yoff)
+[01;32m[K                          ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3621:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_MakeCodepointBitmap(const stbtt_fontinfo*, unsigned char*, int, int, int, float, float, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_MakeCodepointBitmap(const stbtt_fontinfo *info, unsigned char *output, int out_w, int out_h, int out_stride, float scale_x, float scale_y, int codepoint)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3606:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_MakeCodepointBitmapSubpixelPrefilter(const stbtt_fontinfo*, unsigned char*, int, int, int, float, float, float, float, int, int, float*, float*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_MakeCodepointBitmapSubpixelPrefilter(const stbtt_fontinfo *info, unsigned char *output, int out_w, int out_h, int out_stride, float scale_x, float scale_y, float shift_x, float shift_y, int oversample_x, int oversample_y, float *sub_x, float *sub_y, int codepoint)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2638:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetCodepointBitmapBox(const stbtt_fontinfo*, int, float, float, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetCodepointBitmapBox(const stbtt_fontinfo *font, int codepoint, float scale_x, float scale_y, int *ix0, int *iy0, int *ix1, int *iy1)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3572:26:[m[K [01;35m[Kwarning: [m[K‘[01m[Kunsigned char* stbtt_GetGlyphBitmap(const stbtt_fontinfo*, float, float, int, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF unsigned char *stbtt_GetGlyphBitmap(const stbtt_fontinfo *info, float scale_x, float scale_y, int glyph, int *width, int *height, int *xoff, int *yoff)
+[01;32m[K                          ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4576:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_FreeSDF(unsigned char*, void*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_FreeSDF(unsigned char *bitmap, void *userdata)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4571:27:[m[K [01;35m[Kwarning: [m[K‘[01m[Kunsigned char* stbtt_GetCodepointSDF(const stbtt_fontinfo*, float, int, int, unsigned char, float, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF unsigned char * stbtt_GetCodepointSDF(const stbtt_fontinfo *info, float scale, int codepoint, int padding, unsigned char onedge_value, float pixel_dist_scale, int *width, int *height, int *xoff, int *yoff)
+[01;32m[K                           ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4768:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_FindMatchingFont(const unsigned char*, const char*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_FindMatchingFont(const unsigned char *fontdata, const char *name, int flags)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4773:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_CompareUTF8toUTF16_bigendian(const char*, int, const char*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_CompareUTF8toUTF16_bigendian(const char *s1, int len1, const char *s2, int len2)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4633:23:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* stbtt_GetFontNameString(const stbtt_fontinfo*, int*, int, int, int, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF const char *stbtt_GetFontNameString(const stbtt_fontinfo *font, int *length, int platformID, int encodingID, int languageID, int nameID)
+[01;32m[K                       ^[m[K
+[ 38%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/plot/datalog.cpp.o[0m
+[ 38%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/plot/plotter.cpp.o[0m
+[ 39%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/var/vars.cpp.o[0m
+[ 40%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/var/input_record_repeat.cpp.o[0m
+[ 41%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/display/widgets/widgets.cpp.o[0m
+[ 42%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/video_input.cpp.o[0m
+[ 43%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/video.cpp.o[0m
+[ 44%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/stream_encoder_factory.cpp.o[0m
+[ 44%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/video_output_interface_factory.cpp.o[0m
+[ 45%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/video_interface_factory.cpp.o[0m
+[ 46%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/video_output.cpp.o[0m
+[ 47%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/test.cpp.o[0m
+[ 48%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/images.cpp.o[0m
+[ 49%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/images_out.cpp.o[0m
+[ 49%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/split.cpp.o[0m
+[ 50%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/truncate.cpp.o[0m
+[ 51%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/pvn.cpp.o[0m
+[ 52%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/pango.cpp.o[0m
+[ 53%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/pango_video_output.cpp.o[0m
+[ 54%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/debayer.cpp.o[0m
+[ 55%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/shift.cpp.o[0m
+[ 55%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/mirror.cpp.o[0m
+[ 56%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/unpack.cpp.o[0m
+[ 57%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/pack.cpp.o[0m
+[ 58%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/join.cpp.o[0m
+[ 59%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/merge.cpp.o[0m
+[ 60%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/json.cpp.o[0m
+[ 60%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/thread.cpp.o[0m
+[ 61%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/shared_memory.cpp.o[0m
+[ 62%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/tools/video_viewer.cpp.o[0m
+[ 63%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/display/device/display_x11.cpp.o[0m
+[ 64%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/posix/shared_memory_buffer.cpp.o[0m
+[ 65%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/posix/condition_variable.cpp.o[0m
+[ 66%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/utils/posix/semaphore.cpp.o[0m
+[ 66%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/firewire.cpp.o[0m
+[ 67%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/deinterlace.cpp.o[0m
+[ 68%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/v4l.cpp.o[0m
+[ 69%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/ffmpeg.cpp.o[0m
+[ 70%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/video/drivers/openni.cpp.o[0m
+[ 71%] [32mBuilding CXX object src/CMakeFiles/pangolin.dir/fonts.cpp.o[0m
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/video/drivers/ffmpeg.cpp:[m[K In member function ‘[01m[Kvoid pangolin::FfmpegVideoOutputStream::WriteAvPacket(AVPacket*)[m[K’:
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/video/drivers/ffmpeg.cpp:590:26:[m[K [01;35m[Kwarning: [m[Kcomparison is always true due to limited range of data type [-Wtype-limits]
+           if (pkt->field != (int64_t) AV_NOPTS_VALUE)           \
+[01;32m[K                          ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/video/drivers/ffmpeg.cpp:598:9:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KC2S[m[K’
+         C2S(duration);
+[01;32m[K         ^[m[K
+[ 72%] [32m[1mLinking CXX shared library libpangolin.so[0m
+[ 72%] Built target pangolin
+[35m[1mScanning dependencies of target VideoViewer[0m
+[35m[1mScanning dependencies of target VideoJsonTransform[0m
+[35m[1mScanning dependencies of target VideoConvert[0m
+[35m[1mScanning dependencies of target VideoJsonPrint[0m
+[35m[1mScanning dependencies of target Plotter[0m
+[35m[1mScanning dependencies of target ModelViewer[0m
+[35m[1mScanning dependencies of target HelloPangolinOffscreen[0m
+[35m[1mScanning dependencies of target HelloPangolin[0m
+[ 72%] [32mBuilding CXX object tools/VideoConvert/CMakeFiles/VideoConvert.dir/main.cpp.o[0m
+[ 74%] [32mBuilding CXX object examples/HelloPangolinOffscreen/CMakeFiles/HelloPangolinOffscreen.dir/main.cpp.o[0m
+[ 75%] [32mBuilding CXX object tools/VideoJson/CMakeFiles/VideoJsonTransform.dir/main-transform.cpp.o[0m
+[ 75%] [32mBuilding CXX object tools/VideoViewer/CMakeFiles/VideoViewer.dir/main.cpp.o[0m
+[ 75%] [32mBuilding CXX object tools/Plotter/CMakeFiles/Plotter.dir/main.cpp.o[0m
+[ 76%] [32mBuilding CXX object tools/ModelViewer/CMakeFiles/ModelViewer.dir/main.cpp.o[0m
+[ 76%] [32mBuilding CXX object examples/HelloPangolin/CMakeFiles/HelloPangolin.dir/main.cpp.o[0m
+[ 76%] [32mBuilding CXX object tools/VideoJson/CMakeFiles/VideoJsonPrint.dir/main-print.cpp.o[0m
+[ 77%] [32m[1mLinking CXX executable VideoViewer[0m
+[ 78%] [32m[1mLinking CXX executable HelloPangolin[0m
+[ 79%] [32m[1mLinking CXX executable HelloPangolinOffscreen[0m
+[ 80%] [32m[1mLinking CXX executable VideoConvert[0m
+[ 81%] [32m[1mLinking CXX executable VideoJsonPrint[0m
+[ 81%] Built target HelloPangolin
+[ 81%] Built target VideoViewer
+[ 81%] Built target HelloPangolinOffscreen
+[ 81%] Built target VideoConvert
+[35m[1mScanning dependencies of target SimpleMultiDisplay[0m
+[35m[1mScanning dependencies of target HelloPangolinThreads[0m
+[35m[1mScanning dependencies of target SimpleDisplayImage[0m
+[ 81%] Built target VideoJsonPrint
+[35m[1mScanning dependencies of target SimpleScene[0m
+[35m[1mScanning dependencies of target SimplePlot[0m
+[ 83%] [32mBuilding CXX object examples/HelloPangolinThreads/CMakeFiles/HelloPangolinThreads.dir/main.cpp.o[0m
+[ 84%] [32mBuilding CXX object examples/SimpleScene/CMakeFiles/SimpleScene.dir/main.cpp.o[0m
+[ 83%] [32mBuilding CXX object examples/SimpleDisplayImage/CMakeFiles/SimpleDisplayImage.dir/main.cpp.o[0m
+[ 85%] [32mBuilding CXX object examples/SimpleMultiDisplay/CMakeFiles/SimpleMultiDisplay.dir/main.cpp.o[0m
+[ 86%] [32mBuilding CXX object examples/SimplePlot/CMakeFiles/SimplePlot.dir/main.cpp.o[0m
+[ 87%] [32m[1mLinking CXX executable Plotter[0m
+[ 88%] [32m[1mLinking CXX executable VideoJsonTransform[0m
+[ 88%] Built target Plotter
+[35m[1mScanning dependencies of target SimpleDisplay[0m
+[ 88%] Built target VideoJsonTransform
+[35m[1mScanning dependencies of target SimpleVideo[0m
+[ 89%] [32mBuilding CXX object examples/SimpleDisplay/CMakeFiles/SimpleDisplay.dir/main.cpp.o[0m
+[ 90%] [32mBuilding CXX object examples/SimpleVideo/CMakeFiles/SimpleVideo.dir/main.cpp.o[0m
+[ 91%] [32m[1mLinking CXX executable SimpleDisplayImage[0m
+[ 91%] [32m[1mLinking CXX executable SimplePlot[0m
+[ 92%] [32m[1mLinking CXX executable SimpleMultiDisplay[0m
+[ 93%] [32m[1mLinking CXX executable HelloPangolinThreads[0m
+[ 93%] Built target SimpleDisplayImage
+[35m[1mScanning dependencies of target SimpleRecord[0m
+[ 94%] [32mBuilding CXX object examples/SimpleRecord/CMakeFiles/SimpleRecord.dir/main.cpp.o[0m
+[ 94%] Built target SimplePlot
+[35m[1mScanning dependencies of target SharedMemoryCamera[0m
+[ 94%] Built target SimpleMultiDisplay
+[ 95%] [32mBuilding CXX object examples/SharedMemoryCamera/CMakeFiles/SharedMemoryCamera.dir/main.cpp.o[0m
+[ 95%] Built target HelloPangolinThreads
+[ 96%] [32m[1mLinking CXX executable SimpleScene[0m
+[ 97%] [32m[1mLinking CXX executable ModelViewer[0m
+[ 98%] [32m[1mLinking CXX executable SimpleVideo[0m
+[ 98%] Built target SimpleScene
+[ 98%] Built target ModelViewer
+[ 98%] Built target SimpleVideo
+[ 99%] [32m[1mLinking CXX executable SimpleRecord[0m
+[100%] [32m[1mLinking CXX executable SharedMemoryCamera[0m
+[100%] Built target SimpleRecord
+[100%] Built target SharedMemoryCamera
+[100%] [32m[1mLinking CXX executable SimpleDisplay[0m
+[100%] Built target SimpleDisplay

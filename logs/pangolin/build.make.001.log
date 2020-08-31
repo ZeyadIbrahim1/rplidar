@@ -1,0 +1,18 @@
+[ 72%] Built target pangolin
+[ 73%] Built target VideoConvert
+[ 74%] Built target VideoViewer
+[ 76%] Built target VideoJsonTransform
+[ 78%] Built target Plotter
+[ 80%] Built target HelloPangolinOffscreen
+[ 81%] Built target ModelViewer
+[ 82%] Built target HelloPangolin
+[ 84%] Built target VideoJsonPrint
+[ 86%] Built target SimpleMultiDisplay
+[ 88%] Built target HelloPangolinThreads
+[ 90%] Built target SimpleDisplayImage
+[ 92%] Built target SimpleScene
+[ 94%] Built target SharedMemoryCamera
+[ 96%] Built target SimpleRecord
+[ 98%] Built target SimpleVideo
+[ 99%] Built target SimpleDisplay
+[100%] Built target SimplePlot

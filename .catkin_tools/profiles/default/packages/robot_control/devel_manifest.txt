@@ -1,0 +1,6 @@
+robot_control
+/home/zizostreez/rplidar/devel/.private/robot_control/cmake.lock /home/zizostreez/rplidar/devel/./cmake.lock
+/home/zizostreez/rplidar/devel/.private/robot_control/share/robot_control/cmake/robot_controlConfig-version.cmake /home/zizostreez/rplidar/devel/share/robot_control/cmake/robot_controlConfig-version.cmake
+/home/zizostreez/rplidar/devel/.private/robot_control/share/robot_control/cmake/robot_controlConfig.cmake /home/zizostreez/rplidar/devel/share/robot_control/cmake/robot_controlConfig.cmake
+/home/zizostreez/rplidar/devel/.private/robot_control/lib/robot_control/robot_control_node /home/zizostreez/rplidar/devel/lib/robot_control/robot_control_node
+/home/zizostreez/rplidar/devel/.private/robot_control/lib/pkgconfig/robot_control.pc /home/zizostreez/rplidar/devel/lib/pkgconfig/robot_control.pc

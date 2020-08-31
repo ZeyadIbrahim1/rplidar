@@ -1,0 +1,6 @@
+devel_space: /home/zizostreez/rplidar/devel
+install: false
+install_space: /home/zizostreez/rplidar/install
+profile: default
+source_space: /home/zizostreez/rplidar/src
+workspace: /home/zizostreez/rplidar

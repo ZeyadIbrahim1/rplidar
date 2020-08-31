@@ -1,0 +1,1 @@
+/home/zizostreez/rplidar/devel/.private/aamfsd_description/share/aamfsd_description/cmake/aamfsd_descriptionConfig.cmake

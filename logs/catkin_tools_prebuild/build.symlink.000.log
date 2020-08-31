@@ -1,0 +1,12 @@
+Symlinking /home/zizostreez/rplidar/devel/./local_setup.zsh
+Symlinking /home/zizostreez/rplidar/devel/./cmake.lock
+Symlinking /home/zizostreez/rplidar/devel/./_setup_util.py
+Symlinking /home/zizostreez/rplidar/devel/./setup.zsh
+Symlinking /home/zizostreez/rplidar/devel/./setup.bash
+Symlinking /home/zizostreez/rplidar/devel/./local_setup.sh
+Symlinking /home/zizostreez/rplidar/devel/./env.sh
+Symlinking /home/zizostreez/rplidar/devel/./local_setup.bash
+Symlinking /home/zizostreez/rplidar/devel/./setup.sh
+Symlinking /home/zizostreez/rplidar/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/zizostreez/rplidar/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/zizostreez/rplidar/devel/lib/pkgconfig/catkin_tools_prebuild.pc

@@ -1,0 +1,2 @@
+Build type not set (defaults to release)
+-DCMAKE_BUILD_TYPE=Debug for debug

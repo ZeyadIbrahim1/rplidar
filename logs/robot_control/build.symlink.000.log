@@ -1,0 +1,4 @@
+Symlinking /home/zizostreez/rplidar/devel/share/robot_control/cmake/robot_controlConfig-version.cmake
+Symlinking /home/zizostreez/rplidar/devel/share/robot_control/cmake/robot_controlConfig.cmake
+Symlinking /home/zizostreez/rplidar/devel/lib/robot_control/robot_control_node
+Symlinking /home/zizostreez/rplidar/devel/lib/pkgconfig/robot_control.pc

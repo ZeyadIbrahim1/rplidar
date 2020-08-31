@@ -1,0 +1,12 @@
+//user-defined headers
+#include "/home/fayo/test/src/opencv/modules/core/misc/python/pyopencv_async.hpp"
+#include "/home/fayo/test/src/opencv/modules/core/misc/python/pyopencv_cuda.hpp"
+#include "/home/fayo/test/src/opencv/modules/core/misc/python/pyopencv_umat.hpp"
+#include "/home/fayo/test/src/opencv/modules/flann/misc/python/pyopencv_flann.hpp"
+#include "/home/fayo/test/src/opencv/modules/ml/misc/python/pyopencv_ml.hpp"
+#include "/home/fayo/test/src/opencv/modules/dnn/misc/python/pyopencv_dnn.hpp"
+#include "/home/fayo/test/src/opencv/modules/features2d/misc/python/pyopencv_features2d.hpp"
+#include "/home/fayo/test/src/opencv/modules/videoio/misc/python/pyopencv_videoio.hpp"
+#include "/home/fayo/test/src/opencv/modules/objdetect/misc/python/pyopencv_objdetect.hpp"
+#include "/home/fayo/test/src/opencv/modules/stitching/misc/python/pyopencv_stitching.hpp"
+#include "/home/fayo/test/src/opencv/modules/gapi/misc/python/pyopencv_gapi.hpp"

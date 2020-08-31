@@ -1,0 +1,227 @@
+[ 72%] Built target pangolin
+[ 73%] Built target VideoViewer
+[ 74%] Built target VideoConvert
+[ 76%] Built target VideoJsonTransform
+[ 78%] Built target VideoJsonPrint
+[ 80%] Built target Plotter
+[ 81%] Built target ModelViewer
+[ 82%] Built target HelloPangolin
+[ 84%] Built target HelloPangolinOffscreen
+[ 86%] Built target HelloPangolinThreads
+[ 88%] Built target SimpleMultiDisplay
+[ 90%] Built target SimpleDisplayImage
+[ 92%] Built target SimpleScene
+[ 93%] Built target SimplePlot
+[ 94%] Built target SimpleDisplay
+[ 96%] Built target SimpleVideo
+[ 98%] Built target SimpleRecord
+[100%] Built target SharedMemoryCamera
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/config.h
+-- Up-to-date: /home/zizostreez/rplidar/devel/include/pangolin
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/platform.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/view.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/display_internal.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/user_app.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/attach.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/window.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/widgets
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/widgets/widgets.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/device
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/device/X11GlContext.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/device/PangolinNSGLView.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/device/OsxWindow.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/device/display_android.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/device/WinWindow.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/device/X11Window.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/device/PangolinNSApplication.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/viewport.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/image_view.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/display.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/display/opengl_render_state.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/image.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/image_utils.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/image_convert.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/managed_image.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/pixel_format.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/typed_image.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/image_io.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/memcpy.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/image/copy.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/threadedfilebuf.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/simple_math.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/timer.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/picojson.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/params.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/signal_slot.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/file_utils.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/type_convert.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/assert.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/xml
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/xml/license.txt
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/xml/rapidxml.hpp
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/xml/rapidxml_print.hpp
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/xml/rapidxml_iterators.hpp
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/xml/rapidxml_utils.hpp
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/transform.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/parse.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/posix
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/posix/shared_memory_buffer.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/posix/semaphore.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/posix/condition_variable.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/variadic_all.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/fix_size_buffer_queue.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/memstreambuf.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/compontent_cast.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/log.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/format_string.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/sigstate.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/argagg.hpp
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/file_extension.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/uri.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/utils/registration.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/geometry
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/geometry/geometry_obj.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/geometry/geometry.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/geometry/geometry_ply.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/geometry/glgeometry.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/video_exception.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/uvc_mediafoundation.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/pvn.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/firewire.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/realsense.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/mirror.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/shared_memory.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/shift.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/depthsense.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/pango.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/openni_common.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/openni2.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/unpack.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/realsense2.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/pack.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/ffmpeg.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/openni.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/truncate.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/thread.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/split.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/debayer.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/teli.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/join.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/merge.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/deinterlace.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/images_out.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/v4l.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/test.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/pleora.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/images.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/pango_video_output.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/drivers/uvc.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/video_input.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/video_output.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/video_interface.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/stream_info.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/video_output_interface.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/stream_encoder_factory.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/video.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/iostream_operators.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/video/video_record_repeat.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/factory
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/factory/factory_registry.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/console
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/console/ConsoleInterpreter.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/console/ConsoleView.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var/varwrapper.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var/varstate.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var/input_record_repeat.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var/varvalue.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var/varvaluegeneric.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var/varextra.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var/var.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/var/varvaluet.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/ios
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/ios/PangolinUIView.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/ios/PangolinAppDelegate.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/tools
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/tools/video_viewer.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/python
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/python/pypangolin_init.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/python/pyvar.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/python/pyinterpreter.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/python/pyuniqueobj.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/python/pypangoio.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/compat
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/compat/glutbitmap.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/compat/variant.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/compat/type_traits.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/compat/optional.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/pangolin.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/handler
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/handler/handler_glbuffer.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/handler/handler.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/handler/handler_image.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/handler/handler_enums.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/scene
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/scene/renderable.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/scene/tree.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/scene/axis.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/scene/scenehandler.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/scene/interactive_index.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/scene/interactive.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/plot
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/plot/plotter.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/plot/datalog.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/plot/range.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log/packetstream_writer.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log/packetstream_reader.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log/packetstream_tags.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log/playback_session.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log/packetstream_source.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log/packetstream.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log/sync_time.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/log/packet.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glfont.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glvbo.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glpangoglu.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glplatform.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glinclude.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/gldraw.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/gl.hpp
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glcuda.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glstate.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/gltexturecache.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glsl.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/compat
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/compat/gl_es_compat.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/compat/gl2engine.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/cg.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glformattraits.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/colour.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glpixformat.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/glchar.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/gl.h
+-- Installing: /home/zizostreez/rplidar/devel/include/pangolin/gl/gltext.h
+-- Installing: /home/zizostreez/rplidar/devel/lib/libpangolin.so
+-- Installing: /home/zizostreez/rplidar/devel/lib/cmake/Pangolin/PangolinConfig.cmake
+-- Installing: /home/zizostreez/rplidar/devel/lib/cmake/Pangolin/PangolinConfigVersion.cmake
+-- Installing: /home/zizostreez/rplidar/devel/lib/cmake/Pangolin/PangolinTargets.cmake
+-- Installing: /home/zizostreez/rplidar/devel/lib/cmake/Pangolin/PangolinTargets-release.cmake
+-- Installing: /home/zizostreez/rplidar/devel/bin/VideoViewer
+-- Set runtime path of "/home/zizostreez/rplidar/devel/bin/VideoViewer" to ""
+-- Installing: /home/zizostreez/rplidar/devel/bin/VideoConvert
+-- Set runtime path of "/home/zizostreez/rplidar/devel/bin/VideoConvert" to ""
+-- Installing: /home/zizostreez/rplidar/devel/bin/VideoJsonPrint
+-- Set runtime path of "/home/zizostreez/rplidar/devel/bin/VideoJsonPrint" to ""
+-- Installing: /home/zizostreez/rplidar/devel/bin/VideoJsonTransform
+-- Set runtime path of "/home/zizostreez/rplidar/devel/bin/VideoJsonTransform" to ""
+-- Installing: /home/zizostreez/rplidar/devel/bin/Plotter
+-- Set runtime path of "/home/zizostreez/rplidar/devel/bin/Plotter" to ""

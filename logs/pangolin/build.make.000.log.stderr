@@ -1,0 +1,92 @@
+In file included from [01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/glfont.cpp:44:0[m[K:
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4746:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_BakeFontBitmap(const unsigned char*, int, float, unsigned char*, int, int, int, int, stbtt_bakedchar*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_BakeFontBitmap(const unsigned char *data, int offset,
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3678:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetBakedQuad(const stbtt_bakedchar*, int, int, int, float*, float*, stbtt_aligned_quad*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetBakedQuad(const stbtt_bakedchar *chardata, int pw, int ph, int char_index, float *xpos, float *ypos, stbtt_aligned_quad *q, int opengl_fillrule)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4159:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetScaledFontVMetrics(const unsigned char*, int, float, float*, float*, float*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetScaledFontVMetrics(const unsigned char *fontdata, int index, float size, float *ascent, float *descent, float *lineGap)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3776:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_PackBegin(stbtt_pack_context*, unsigned char*, int, int, int, int, void*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_PackBegin(stbtt_pack_context *spc, unsigned char *pixels, int pw, int ph, int stride_in_bytes, int padding, void *alloc_context)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3808:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_PackEnd(stbtt_pack_context*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_PackEnd  (stbtt_pack_context *spc)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4147:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_PackFontRange(stbtt_pack_context*, const unsigned char*, int, float, int, int, stbtt_packedchar*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_PackFontRange(stbtt_pack_context *spc, const unsigned char *fontdata, int font_index, float font_size,
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3814:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_PackSetOversampling(stbtt_pack_context*, unsigned int, unsigned int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_PackSetOversampling(stbtt_pack_context *spc, unsigned int h_oversample, unsigned int v_oversample)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3824:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_PackSetSkipMissingCodepoints(stbtt_pack_context*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_PackSetSkipMissingCodepoints(stbtt_pack_context *spc, int skip)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4172:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetPackedQuad(const stbtt_packedchar*, int, int, int, float*, float*, stbtt_aligned_quad*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetPackedQuad(const stbtt_packedchar *chardata, int pw, int ph, int char_index, float *xpos, float *ypos, stbtt_aligned_quad *q, int align_to_integer)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4758:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_GetNumberOfFonts(const unsigned char*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_GetNumberOfFonts(const unsigned char *data)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2569:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_GetFontVMetricsOS2(const stbtt_fontinfo*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int  stbtt_GetFontVMetricsOS2(const stbtt_fontinfo *info, int *typoAscent, int *typoDescent, int *typoLineGap)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2580:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetFontBoundingBox(const stbtt_fontinfo*, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetFontBoundingBox(const stbtt_fontinfo *info, int *x0, int *y0, int *x1, int *y1)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2557:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetCodepointHMetrics(const stbtt_fontinfo*, int, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetCodepointHMetrics(const stbtt_fontinfo *info, int codepoint, int *advanceWidth, int *leftSideBearing)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:1589:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_GetCodepointBox(const stbtt_fontinfo*, int, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_GetCodepointBox(const stbtt_fontinfo *info, int codepoint, int *x0, int *y0, int *x1, int *y1)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:1594:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_IsGlyphEmpty(const stbtt_fontinfo*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_IsGlyphEmpty(const stbtt_fontinfo *info, int glyph_index)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:1537:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_GetCodepointShape(const stbtt_fontinfo*, int, stbtt_vertex**)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_GetCodepointShape(const stbtt_fontinfo *info, int unicode_codepoint, stbtt_vertex **vertices)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2600:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_FreeShape(const stbtt_fontinfo*, stbtt_vertex*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_FreeShape(const stbtt_fontinfo *info, stbtt_vertex *v)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3527:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_FreeBitmap(unsigned char*, void*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_FreeBitmap(unsigned char *bitmap, void *userdata)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3616:26:[m[K [01;35m[Kwarning: [m[K‘[01m[Kunsigned char* stbtt_GetCodepointBitmap(const stbtt_fontinfo*, float, float, int, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF unsigned char *stbtt_GetCodepointBitmap(const stbtt_fontinfo *info, float scale_x, float scale_y, int codepoint, int *width, int *height, int *xoff, int *yoff)
+[01;32m[K                          ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3621:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_MakeCodepointBitmap(const stbtt_fontinfo*, unsigned char*, int, int, int, float, float, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_MakeCodepointBitmap(const stbtt_fontinfo *info, unsigned char *output, int out_w, int out_h, int out_stride, float scale_x, float scale_y, int codepoint)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3606:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_MakeCodepointBitmapSubpixelPrefilter(const stbtt_fontinfo*, unsigned char*, int, int, int, float, float, float, float, int, int, float*, float*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_MakeCodepointBitmapSubpixelPrefilter(const stbtt_fontinfo *info, unsigned char *output, int out_w, int out_h, int out_stride, float scale_x, float scale_y, float shift_x, float shift_y, int oversample_x, int oversample_y, float *sub_x, float *sub_y, int codepoint)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:2638:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_GetCodepointBitmapBox(const stbtt_fontinfo*, int, float, float, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_GetCodepointBitmapBox(const stbtt_fontinfo *font, int codepoint, float scale_x, float scale_y, int *ix0, int *iy0, int *ix1, int *iy1)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:3572:26:[m[K [01;35m[Kwarning: [m[K‘[01m[Kunsigned char* stbtt_GetGlyphBitmap(const stbtt_fontinfo*, float, float, int, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF unsigned char *stbtt_GetGlyphBitmap(const stbtt_fontinfo *info, float scale_x, float scale_y, int glyph, int *width, int *height, int *xoff, int *yoff)
+[01;32m[K                          ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4576:16:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid stbtt_FreeSDF(unsigned char*, void*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF void stbtt_FreeSDF(unsigned char *bitmap, void *userdata)
+[01;32m[K                ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4571:27:[m[K [01;35m[Kwarning: [m[K‘[01m[Kunsigned char* stbtt_GetCodepointSDF(const stbtt_fontinfo*, float, int, int, unsigned char, float, int*, int*, int*, int*)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF unsigned char * stbtt_GetCodepointSDF(const stbtt_fontinfo *info, float scale, int codepoint, int padding, unsigned char onedge_value, float pixel_dist_scale, int *width, int *height, int *xoff, int *yoff)
+[01;32m[K                           ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4768:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_FindMatchingFont(const unsigned char*, const char*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_FindMatchingFont(const unsigned char *fontdata, const char *name, int flags)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4773:15:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint stbtt_CompareUTF8toUTF16_bigendian(const char*, int, const char*, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF int stbtt_CompareUTF8toUTF16_bigendian(const char *s1, int len1, const char *s2, int len2)
+[01;32m[K               ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/gl/stb_truetype.h:4633:23:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst char* stbtt_GetFontNameString(const stbtt_fontinfo*, int*, int, int, int, int)[m[K’ defined but not used [-Wunused-function]
+ STBTT_DEF const char *stbtt_GetFontNameString(const stbtt_fontinfo *font, int *length, int platformID, int encodingID, int languageID, int nameID)
+[01;32m[K                       ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/video/drivers/ffmpeg.cpp:[m[K In member function ‘[01m[Kvoid pangolin::FfmpegVideoOutputStream::WriteAvPacket(AVPacket*)[m[K’:
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/video/drivers/ffmpeg.cpp:590:26:[m[K [01;35m[Kwarning: [m[Kcomparison is always true due to limited range of data type [-Wtype-limits]
+           if (pkt->field != (int64_t) AV_NOPTS_VALUE)           \
+[01;32m[K                          ^[m[K
+[01m[K/home/zizostreez/rplidar/src/Pangolin/src/video/drivers/ffmpeg.cpp:598:9:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KC2S[m[K’
+         C2S(duration);
+[01;32m[K         ^[m[K

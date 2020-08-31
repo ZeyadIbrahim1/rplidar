@@ -1,0 +1,8 @@
+prefix=/home/zizostreez/rplidar/devel/.private/teleop_twist_keyboard_cpp
+
+Name: teleop_twist_keyboard_cpp
+Description: Description of teleop_twist_keyboard_cpp
+Version: 0.0.0
+Cflags: -I/home/zizostreez/rplidar/src/teleop_twist_keyboard_cpp/src
+Libs: -L${prefix}/lib 
+Requires: roscpp geometry_msgs
